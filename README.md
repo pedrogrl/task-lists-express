@@ -1,9 +1,10 @@
 # TaskLists Manager
 
-## Scripts
+## Commands/Scripts
 
 In the project directory, you need to run:
 
+### `npm install`
 ### `npm run dev`
 
 Runs the app in the development mode.\
